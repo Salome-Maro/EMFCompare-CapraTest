@@ -12,4 +12,8 @@
     <item href="artifactWrappers.xmi#//@artifacts.4"/>
     <item href="../org.eclipse.capra.emfCompare.testWorkspace/design/model.uml#_GEz8EIo_EeaIMOmeverxKA"/>
   </traces>
+  <traces>
+    <item href="artifactWrappers.xmi#//@artifacts.5"/>
+    <item href="artifactWrappers.xmi#//@artifacts.6"/>
+  </traces>
 </GenericTraceMetaModel:GenericTraceModel>
