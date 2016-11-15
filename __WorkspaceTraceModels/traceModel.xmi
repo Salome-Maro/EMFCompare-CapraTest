@@ -16,4 +16,8 @@
     <item href="artifactWrappers.xmi#//@artifacts.5"/>
     <item href="artifactWrappers.xmi#//@artifacts.6"/>
   </traces>
+  <traces>
+    <item href="artifactWrappers.xmi#//@artifacts.5"/>
+    <item href="artifactWrappers.xmi#//@artifacts.6"/>
+  </traces>
 </GenericTraceMetaModel:GenericTraceModel>
