@@ -5,7 +5,7 @@
     xmlns:GenericTraceMetaModel="org.eclipse.capra.GenericTraceMetaModel">
   <traces>
     <item href="artifactWrappers.xmi#//@artifacts.1"/>
-    <item href="artifactWrappers.xmi#//@artifacts.2"/>
+    <item href="artifactWrappers.xmi#//@artifacts.0"/>
   </traces>
   <traces>
     <item href="../org.eclipse.capra.emfCompare.testWorkspace/design/model.uml#_GEz8EIo_EeaIMOmeverxKA"/>
