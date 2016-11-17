@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="ASCII"?>
 <GenericArtifactMetaModel:ArtifactWrapperContainer xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:GenericArtifactMetaModel="org.eclipse.capra.GenericArtifactMetaModel">
   <artifacts uri="=TestEMFCompare/src\/com\/test&lt;{TestClass.java[TestClass~printaj~QString;" name="printaj" ArtifactHandler="org.eclipse.capra.handler.jdt.JavaElementHandler"/>
-  <artifacts uri="/TestEMFCompare/tojeto.xls" name="tojeto.xls" ArtifactHandler="org.eclipse.capra.handler.file.IFileHandler"/>
+  <artifacts uri="/org.eclipse.capra.emfCompare.testWorkspace/docs/tojeto.xls" name="tojeto.xls" ArtifactHandler="org.eclipse.capra.handler.file.IFileHandler"/>
   <artifacts uri="=org.eclipse.capra.core/src&lt;org.eclipse.capra.core.adapters{TraceMetaModelAdapter.java[TraceMetaModelAdapter" name="TraceMetaModelAdapter" ArtifactHandler="org.eclipse.capra.handler.jdt.JavaElementHandler"/>
   <artifacts uri="=org.eclipse.capra.core/src&lt;org.eclipse.capra.core.adapters{AbstractArtifactMetaModelAdapter.java[AbstractArtifactMetaModelAdapter" name="AbstractArtifactMetaModelAdapter" ArtifactHandler="org.eclipse.capra.handler.jdt.JavaElementHandler"/>
   <artifacts uri="=org.eclipse.capra.emfCompare.testWorkspace/src&lt;org.eclipse.capra.emfCompare.testWorkspace{TestClass.java[TestClass~printaj~QString;" name="printaj" ArtifactHandler="org.eclipse.capra.handler.jdt.JavaElementHandler"/>
