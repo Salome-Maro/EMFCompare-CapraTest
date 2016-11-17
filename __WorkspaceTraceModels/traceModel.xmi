@@ -1,19 +1,15 @@
 <?xml version="1.0" encoding="ASCII"?>
 <GenericTraceMetaModel:GenericTraceModel xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:GenericTraceMetaModel="org.eclipse.capra.GenericTraceMetaModel">
   <traces>
-    <item href="artifactWrappers.xmi#//@artifacts.0"/>
     <item href="artifactWrappers.xmi#//@artifacts.1"/>
-  </traces>
-  <traces>
     <item href="artifactWrappers.xmi#//@artifacts.2"/>
-    <item href="artifactWrappers.xmi#//@artifacts.3"/>
   </traces>
   <traces>
-    <item href="artifactWrappers.xmi#//@artifacts.4"/>
+    <item href="artifactWrappers.xmi#//@artifacts.3"/>
     <item href="../org.eclipse.capra.emfCompare.testWorkspace/design/model.uml#_GEz8EIo_EeaIMOmeverxKA"/>
   </traces>
   <traces>
+    <item href="artifactWrappers.xmi#//@artifacts.4"/>
     <item href="artifactWrappers.xmi#//@artifacts.5"/>
-    <item href="artifactWrappers.xmi#//@artifacts.6"/>
   </traces>
 </GenericTraceMetaModel:GenericTraceModel>
