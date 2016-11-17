@@ -4,7 +4,6 @@
     xmlns:xmi="http://www.omg.org/XMI"
     xmlns:GenericTraceMetaModel="org.eclipse.capra.GenericTraceMetaModel">
   <traces name=" [L/org.eclipse.capra.emfCompare.testWorkspace/docs/Workbook123.xls, L/org.eclipse.capra.emfCompare.testWorkspace/docs/WordFormSample.doc]">
-    <item href="artifactWrappers.xmi#//@artifacts.8"/>
     <item href="artifactWrappers.xmi#//@artifacts.9"/>
   </traces>
 </GenericTraceMetaModel:GenericTraceModel>
