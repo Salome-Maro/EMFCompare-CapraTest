@@ -5,6 +5,6 @@
   <artifacts uri="=org.eclipse.capra.core/src&lt;org.eclipse.capra.core.adapters{TraceMetaModelAdapter.java[TraceMetaModelAdapter" name="TraceMetaModelAdapter" ArtifactHandler="org.eclipse.capra.handler.jdt.JavaElementHandler"/>
   <artifacts uri="=org.eclipse.capra.core/src&lt;org.eclipse.capra.core.adapters{AbstractArtifactMetaModelAdapter.java[AbstractArtifactMetaModelAdapter" name="AbstractArtifactMetaModelAdapter" ArtifactHandler="org.eclipse.capra.handler.jdt.JavaElementHandler"/>
   <artifacts uri="=org.eclipse.capra.emfCompare.testWorkspace/src&lt;org.eclipse.capra.emfCompare.testWorkspace{TestClass.java[TestClass~printaj~QString;" name="printaj" ArtifactHandler="org.eclipse.capra.handler.jdt.JavaElementHandler"/>
-  <artifacts uri="/EMFCompareTestFinal/DocxDoc.docx" name="DocxDoc.docx" ArtifactHandler="org.eclipse.capra.handler.file.IFileHandler"/>
-  <artifacts uri="/EMFCompareTestFinal/tojeto.xls" name="tojeto.xls" ArtifactHandler="org.eclipse.capra.handler.file.IFileHandler"/>
+  <artifacts uri="=org.eclipse.emf.examples.library/src&lt;org.eclipse.emf.examples.extlibrary{Addressable.java" name="Addressable.java" ArtifactHandler="org.eclipse.capra.handler.jdt.JavaElementHandler"/>
+  <artifacts uri="=org.eclipse.emf.examples.library/src&lt;org.eclipse.emf.examples.extlibrary{AudioVisualItem.java" name="AudioVisualItem.java" ArtifactHandler="org.eclipse.capra.handler.jdt.JavaElementHandler"/>
 </GenericArtifactMetaModel:ArtifactWrapperContainer>
