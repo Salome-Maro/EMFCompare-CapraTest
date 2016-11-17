@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="ASCII"?>
-<GenericArtifactMetaModel:ArtifactWrapperContainer xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:GenericArtifactMetaModel="org.eclipse.capra.GenericArtifactMetaModel">
-  <artifacts uri="/org.eclipse.capra.emfCompare.testWorkspace/WordFormSample.doc" name="WordFormSample.doc" ArtifactHandler="org.eclipse.capra.handler.file.IFileHandler"/>
-  <artifacts uri="/org.eclipse.capra.emfCompare.testWorkspace/design/WordFormSample.doc" name="WordFormSample.doc" ArtifactHandler="org.eclipse.capra.handler.file.IFileHandler"/>
-  <artifacts uri="/org.eclipse.capra.emfCompare.testWorkspace/docs/DocxDoc.docx" name="DocxDoc.docx" ArtifactHandler="org.eclipse.capra.handler.file.IFileHandler"/>
-  <artifacts uri="/org.eclipse.capra.emfCompare.testWorkspace/docs/pocutje.xlsx" name="pocutje.xlsx" ArtifactHandler="org.eclipse.capra.handler.file.IFileHandler"/>
+<GenericArtifactMetaModel:ArtifactWrapperContainer
+    xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI"
+    xmlns:GenericArtifactMetaModel="org.eclipse.capra.GenericArtifactMetaModel">
+  <artifacts
+      uri="/org.eclipse.capra.emfCompare.testWorkspace/WordFormSample.doc"
+      name="WordFormSample.doc"
+      ArtifactHandler="org.eclipse.capra.handler.file.IFileHandler"/>
+  <artifacts
+      uri="/org.eclipse.capra.emfCompare.testWorkspace/design/WordFormSample.doc"
+      name="WordFormSample.doc"
+      ArtifactHandler="org.eclipse.capra.handler.file.IFileHandler"/>
+  <artifacts
+      uri="/org.eclipse.capra.emfCompare.testWorkspace/docs/DocxDoc.docx"
+      name="Doc.docx"
+      ArtifactHandler="org.eclipse.capra.handler.file.IFileHandler"/>
+  <artifacts
+      uri="/org.eclipse.capra.emfCompare.testWorkspace/docs/pocutje.xlsx"
+      name="pocutje.xlsx"
+      ArtifactHandler="org.eclipse.capra.handler.file.IFileHandler"/>
 </GenericArtifactMetaModel:ArtifactWrapperContainer>
