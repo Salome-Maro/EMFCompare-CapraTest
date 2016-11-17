@@ -3,4 +3,19 @@
   <traces name=" [L/org.eclipse.capra.emfCompare.testWorkspace/docs/Workbook123.xls, L/org.eclipse.capra.emfCompare.testWorkspace/docs/WordFormSample.doc]">
     <item href="artifactWrappers.xmi#//@artifacts.8"/>
   </traces>
+  <traces name=" [org.eclipse.uml2.uml.internal.impl.ClassImpl@39281008 (name: BBB, visibility: &lt;unset>) (isLeaf: false, isAbstract: false, isFinalSpecialization: false) (isActive: false), L/org.eclipse.capra.emfCompare.testWorkspace/docs/DocxDoc.docx]">
+    <item href="../org.eclipse.capra.emfCompare.testWorkspace/design/model.uml#_9lV6IKzUEea8q5_VYn-f9w"/>
+    <item href="artifactWrappers.xmi#//@artifacts.10"/>
+  </traces>
+  <traces name=" [org.eclipse.uml2.uml.internal.impl.ClassImpl@39281008 (name: BBB, visibility: &lt;unset>) (isLeaf: false, isAbstract: false, isFinalSpecialization: false) (isActive: false), L/org.eclipse.capra.emfCompare.testWorkspace/docs/WordFormSample.doc]">
+    <item href="../org.eclipse.capra.emfCompare.testWorkspace/design/model.uml#_9lV6IKzUEea8q5_VYn-f9w"/>
+    <item href="artifactWrappers.xmi#//@artifacts.9"/>
+  </traces>
+  <traces name=" [org.eclipse.uml2.uml.internal.impl.ClassImpl@39281008 (name: BBB, visibility: &lt;unset>) (isLeaf: false, isAbstract: false, isFinalSpecialization: false) (isActive: false), L/org.eclipse.capra.emfCompare.testWorkspace/docs/WordFormSample.doc, L/org.eclipse.capra.emfCompare.testWorkspace/docs/DocxDoc.docx, L/org.eclipse.capra.emfCompare.testWorkspace/docs/pocutje.xlsx, L/org.eclipse.capra.emfCompare.testWorkspace/docs/Workbook123.xls]">
+    <item href="../org.eclipse.capra.emfCompare.testWorkspace/design/model.uml#_9lV6IKzUEea8q5_VYn-f9w"/>
+    <item href="artifactWrappers.xmi#//@artifacts.9"/>
+    <item href="artifactWrappers.xmi#//@artifacts.10"/>
+    <item href="artifactWrappers.xmi#//@artifacts.6"/>
+    <item href="artifactWrappers.xmi#//@artifacts.8"/>
+  </traces>
 </GenericTraceMetaModel:GenericTraceModel>
