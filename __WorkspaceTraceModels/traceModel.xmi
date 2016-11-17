@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="ASCII"?>
+<GenericTraceMetaModel:GenericTraceModel xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:GenericTraceMetaModel="org.eclipse.capra.GenericTraceMetaModel">
+  <traces name=" [L/org.eclipse.capra.emfCompare.testWorkspace/WordFormSample.doc, L/org.eclipse.capra.emfCompare.testWorkspace/design/WordFormSample.doc, L/org.eclipse.capra.emfCompare.testWorkspace/docs/DocxDoc.docx, L/org.eclipse.capra.emfCompare.testWorkspace/docs/pocutje.xlsx]">
+    <item href="artifactWrappers.xmi#//@artifacts.0"/>
+    <item href="artifactWrappers.xmi#//@artifacts.1"/>
+    <item href="artifactWrappers.xmi#//@artifacts.2"/>
+    <item href="artifactWrappers.xmi#//@artifacts.3"/>
+  </traces>
+  <traces name=" [org.eclipse.uml2.uml.internal.impl.ClassImpl@6673ec27 (name: AAA, visibility: &lt;unset>) (isLeaf: false, isAbstract: false, isFinalSpecialization: false) (isActive: false), L/org.eclipse.capra.emfCompare.testWorkspace/docs/pocutje.xlsx]">
+    <item href="../org.eclipse.capra.emfCompare.testWorkspace/design/model.uml#_7uY_kKzUEea8q5_VYn-f9w"/>
+    <item href="artifactWrappers.xmi#//@artifacts.3"/>
+  </traces>
+</GenericTraceMetaModel:GenericTraceModel>
